@@ -1,0 +1,22 @@
+c:\users\nikko\documents\visual studio 2015\Projects\Logist\Logist\bin\Debug\Logist.exe.config
+c:\users\nikko\documents\visual studio 2015\Projects\Logist\Logist\bin\Debug\Logist.exe
+c:\users\nikko\documents\visual studio 2015\Projects\Logist\Logist\bin\Debug\Logist.pdb
+c:\users\nikko\documents\visual studio 2015\Projects\Logist\Logist\obj\Debug\Logist.csprojResolveAssemblyReference.cache
+c:\users\nikko\documents\visual studio 2015\Projects\Logist\Logist\obj\Debug\Logist.Properties.Resources.resources
+c:\users\nikko\documents\visual studio 2015\Projects\Logist\Logist\obj\Debug\Logist.csproj.GenerateResource.Cache
+c:\users\nikko\documents\visual studio 2015\Projects\Logist\Logist\obj\Debug\Logist.exe
+c:\users\nikko\documents\visual studio 2015\Projects\Logist\Logist\obj\Debug\Logist.pdb
+c:\users\nikko\documents\visual studio 2015\Projects\Logist\Logist\obj\Debug\Logist.AllRoutes.resources
+c:\users\nikko\documents\visual studio 2015\Projects\Logist\Logist\obj\Debug\Logist.NewRoute.resources
+C:\Users\Nikko\documents\visual studio 2015\Projects\Logist\Logist\obj\Debug\Logist.Main.resources
+C:\Users\Vlad\Downloads\Telegram Desktop\Logist\Logist\Logist\bin\Debug\Logist.exe.config
+C:\Users\Vlad\Downloads\Telegram Desktop\Logist\Logist\Logist\obj\Debug\Logist.exe
+C:\Users\Vlad\Downloads\Telegram Desktop\Logist\Logist\Logist\obj\Debug\Logist.pdb
+C:\Users\Vlad\Downloads\Telegram Desktop\Logist\Logist\Logist\bin\Debug\Logist.exe
+C:\Users\Vlad\Downloads\Telegram Desktop\Logist\Logist\Logist\bin\Debug\Logist.pdb
+C:\Users\Vlad\Downloads\Telegram Desktop\Logist\Logist\Logist\obj\Debug\Logist.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Downloads\Telegram Desktop\Logist\Logist\Logist\obj\Debug\Logist.AllRoutes.resources
+C:\Users\Vlad\Downloads\Telegram Desktop\Logist\Logist\Logist\obj\Debug\Logist.Main.resources
+C:\Users\Vlad\Downloads\Telegram Desktop\Logist\Logist\Logist\obj\Debug\Logist.NewRoute.resources
+C:\Users\Vlad\Downloads\Telegram Desktop\Logist\Logist\Logist\obj\Debug\Logist.Properties.Resources.resources
+C:\Users\Vlad\Downloads\Telegram Desktop\Logist\Logist\Logist\obj\Debug\Logist.csproj.GenerateResource.Cache
